@@ -1,8 +1,5 @@
 __pycache__/
 flask-blog-venv/
 requirements.txt
-<<<<<<< HEAD
 flaskblog/config.py
-=======
->>>>>>> ce44977 (fixed some bugs on the new branch)
 trail4bits-venv/
