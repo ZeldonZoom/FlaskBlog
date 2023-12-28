@@ -2,4 +2,4 @@ __pycache__/
 flask-blog-venv/
 requirements.txt
 flaskblog/config.py
-instance/
+instance/site.db
